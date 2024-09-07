@@ -1,10 +1,16 @@
-﻿define u = Character("You")
+﻿define narator_nvl = Character("", kind=nvl)
 
 
 label start:
 
     scene bg city_temp
 
-    u "You've created a new Ren'Py game."
+    nvl_narrator """
+    Welcome to our disgustingly ordinary town..
+
+    in a monotous world, where there is only a single God,
+    
+    that everyone for some reasons accepts..
+    """
 
     return
