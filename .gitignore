@@ -1,7 +1,7 @@
 log.txt
 /game/cache
 /game/saves
-.rpyc
-.rpa
-.rpymc
+*.rpyc
+*.rpa
+*.rpymc
 traceback.txt
