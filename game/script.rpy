@@ -1,7 +1,4 @@
-﻿define narator_nvl = Character("", kind=nvl)
-
-
-label start:
+﻿label start:
 
     scene bg city_temp
 
