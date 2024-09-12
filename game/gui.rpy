@@ -57,7 +57,11 @@ define gui.interface_text_color = '#ffffff'
 ## Fonts and Font Sizes ########################################################
 
 ## The font used for in-game text.
+<<<<<<< HEAD
 define gui.text_font = "images/RedditSansCondensed-VariableFont_wght.ttf"
+=======
+define gui.text_font = "images/Inconsolata.ttf"
+>>>>>>> dff16165dd405d25695c55c66d7873ea54434541
 
 ## The font used for character names.
 define gui.name_text_font = "images/RedditSansCondensed-VariableFont_wght.ttf"
