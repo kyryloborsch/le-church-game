@@ -5,3 +5,4 @@ log.txt
 *.rpa
 *.rpymc
 traceback.txt
+errors.txt
